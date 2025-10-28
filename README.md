@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1V1wvmPdHTpjYNeKof8QUgyT6I7m4dE6_
+[View your app in AI Studio: https://ai.studio/apps/drive/1V1wvmPdHTpjYNeKof8QUgyT6I7m4dE6_](https://copy-of-partner-link-generator-tracker-357397536500.us-west1.run.app)
 
 ## Run Locally
 
