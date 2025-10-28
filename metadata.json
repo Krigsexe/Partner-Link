@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Partner Link Generator & Tracker",
+  "description": "An application to generate and track personalized partner promotional links. It provides analytics on link performance, including clicks and conversions, with persistent data storage.",
+  "requestFramePermissions": []
+}
